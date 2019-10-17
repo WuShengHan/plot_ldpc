@@ -2,8 +2,8 @@
 #
 This python code would demostrate my LDPC code performance,
 which include
-    1. WSH code family for codeword length from 128 to 8320
-    2. 5G NR NTU code proposed family (On-going)
+    1. WSH code family for codeword info = 128, 256, 512, 1024, 2048, 4096 and 8320
+    2. 5G NR NTU code proposed family 
     3. IP 1KB code
     4. IP 2KB code
     5. IP 4KB code
