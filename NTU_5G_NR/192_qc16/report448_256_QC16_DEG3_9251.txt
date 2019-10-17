@@ -1,0 +1,1562 @@
+now is 2016/11/20 22:33:10
+NUM_VAR       = 448 ;
+NUM_CHK       = 192 ;
+qc_size       = 16 ;
+max_iter      = 63 ;
+err_soft_level= 0 ;( nearly floating )
+SNR           = 0.1 ;(dB)
+Error_Bit     = 124453 ;
+Error_Block   = 1994 ;
+Total_Block   = 2000 ;
+Alias_Count   = 0 ;
+Average_Error = 62.3365 ;
+Average_Iter  = 62.8359 ;
+BLER          = 0.997 ; -0.0130484dB
+Average_Error_of_Uncorrectable_Pattern = 62.4137 ;
+  ----  Correctable initial Error Count ----- 
+Correctable_Error_39 = 1 ;
+Correctable_Error_47 = 1 ;
+Correctable_Error_48 = 2 ;
+Correctable_Error_56 = 1 ;
+Correctable_Error_59 = 1 ;
+  ----  Uncorrectable initial Error Count --- 
+Uncorrectable_Error_40 = 1 ;
+Uncorrectable_Error_41 = 1 ;
+Uncorrectable_Error_43 = 4 ;
+Uncorrectable_Error_44 = 1 ;
+Uncorrectable_Error_45 = 6 ;
+Uncorrectable_Error_46 = 7 ;
+Uncorrectable_Error_47 = 12 ;
+Uncorrectable_Error_48 = 14 ;
+Uncorrectable_Error_49 = 25 ;
+Uncorrectable_Error_50 = 18 ;
+Uncorrectable_Error_51 = 30 ;
+Uncorrectable_Error_52 = 33 ;
+Uncorrectable_Error_53 = 47 ;
+Uncorrectable_Error_54 = 56 ;
+Uncorrectable_Error_55 = 66 ;
+Uncorrectable_Error_56 = 70 ;
+Uncorrectable_Error_57 = 98 ;
+Uncorrectable_Error_58 = 92 ;
+Uncorrectable_Error_59 = 103 ;
+Uncorrectable_Error_60 = 114 ;
+Uncorrectable_Error_61 = 124 ;
+Uncorrectable_Error_62 = 121 ;
+Uncorrectable_Error_63 = 113 ;
+Uncorrectable_Error_64 = 104 ;
+Uncorrectable_Error_65 = 87 ;
+Uncorrectable_Error_66 = 98 ;
+Uncorrectable_Error_67 = 81 ;
+Uncorrectable_Error_68 = 59 ;
+Uncorrectable_Error_69 = 82 ;
+Uncorrectable_Error_70 = 65 ;
+Uncorrectable_Error_71 = 58 ;
+Uncorrectable_Error_72 = 39 ;
+Uncorrectable_Error_73 = 35 ;
+Uncorrectable_Error_74 = 31 ;
+Uncorrectable_Error_75 = 22 ;
+Uncorrectable_Error_76 = 25 ;
+Uncorrectable_Error_77 = 14 ;
+Uncorrectable_Error_78 = 9 ;
+Uncorrectable_Error_79 = 8 ;
+Uncorrectable_Error_80 = 10 ;
+Uncorrectable_Error_81 = 4 ;
+Uncorrectable_Error_82 = 3 ;
+Uncorrectable_Error_83 = 1 ;
+Uncorrectable_Error_84 = 3 ;
+  ---- Alias distance ----------------------- 
+  ---- Iteration --------------------------- 
+Iter_9 = 1 ;
+Iter_11 = 1 ;
+Iter_13 = 1 ;
+Iter_14 = 1 ;
+Iter_24 = 1 ;
+Iter_41 = 1 ;
+Iter_63 = 1994 ;
+------------------------------------------------------- 
+now is 2016/11/20 22:33:20
+NUM_VAR       = 448 ;
+NUM_CHK       = 192 ;
+qc_size       = 16 ;
+max_iter      = 63 ;
+err_soft_level= 0 ;( nearly floating )
+SNR           = 0.4 ;(dB)
+Error_Bit     = 116664 ;
+Error_Block   = 1968 ;
+Total_Block   = 2000 ;
+Alias_Count   = 0 ;
+Average_Error = 59.067 ;
+Average_Iter  = 62.1609 ;
+BLER          = 0.984 ; -0.070049dB
+Average_Error_of_Uncorrectable_Pattern = 59.2805 ;
+  ----  Correctable initial Error Count ----- 
+Correctable_Error_38 = 1 ;
+Correctable_Error_42 = 1 ;
+Correctable_Error_43 = 4 ;
+Correctable_Error_44 = 1 ;
+Correctable_Error_45 = 4 ;
+Correctable_Error_46 = 2 ;
+Correctable_Error_47 = 4 ;
+Correctable_Error_48 = 2 ;
+Correctable_Error_49 = 3 ;
+Correctable_Error_50 = 4 ;
+Correctable_Error_51 = 2 ;
+Correctable_Error_52 = 1 ;
+Correctable_Error_54 = 1 ;
+Correctable_Error_55 = 1 ;
+Correctable_Error_61 = 1 ;
+  ----  Uncorrectable initial Error Count --- 
+Uncorrectable_Error_37 = 1 ;
+Uncorrectable_Error_38 = 2 ;
+Uncorrectable_Error_39 = 1 ;
+Uncorrectable_Error_40 = 1 ;
+Uncorrectable_Error_41 = 4 ;
+Uncorrectable_Error_42 = 6 ;
+Uncorrectable_Error_43 = 4 ;
+Uncorrectable_Error_44 = 8 ;
+Uncorrectable_Error_45 = 8 ;
+Uncorrectable_Error_46 = 17 ;
+Uncorrectable_Error_47 = 21 ;
+Uncorrectable_Error_48 = 36 ;
+Uncorrectable_Error_49 = 31 ;
+Uncorrectable_Error_50 = 58 ;
+Uncorrectable_Error_51 = 49 ;
+Uncorrectable_Error_52 = 81 ;
+Uncorrectable_Error_53 = 81 ;
+Uncorrectable_Error_54 = 104 ;
+Uncorrectable_Error_55 = 100 ;
+Uncorrectable_Error_56 = 89 ;
+Uncorrectable_Error_57 = 102 ;
+Uncorrectable_Error_58 = 105 ;
+Uncorrectable_Error_59 = 135 ;
+Uncorrectable_Error_60 = 110 ;
+Uncorrectable_Error_61 = 105 ;
+Uncorrectable_Error_62 = 93 ;
+Uncorrectable_Error_63 = 87 ;
+Uncorrectable_Error_64 = 83 ;
+Uncorrectable_Error_65 = 76 ;
+Uncorrectable_Error_66 = 66 ;
+Uncorrectable_Error_67 = 53 ;
+Uncorrectable_Error_68 = 53 ;
+Uncorrectable_Error_69 = 43 ;
+Uncorrectable_Error_70 = 35 ;
+Uncorrectable_Error_71 = 34 ;
+Uncorrectable_Error_72 = 25 ;
+Uncorrectable_Error_73 = 13 ;
+Uncorrectable_Error_74 = 11 ;
+Uncorrectable_Error_75 = 9 ;
+Uncorrectable_Error_76 = 8 ;
+Uncorrectable_Error_77 = 5 ;
+Uncorrectable_Error_78 = 4 ;
+Uncorrectable_Error_79 = 4 ;
+Uncorrectable_Error_80 = 1 ;
+Uncorrectable_Error_81 = 1 ;
+Uncorrectable_Error_82 = 2 ;
+Uncorrectable_Error_83 = 1 ;
+Uncorrectable_Error_85 = 2 ;
+  ---- Alias distance ----------------------- 
+  ---- Iteration --------------------------- 
+Iter_5 = 2 ;
+Iter_6 = 1 ;
+Iter_7 = 4 ;
+Iter_8 = 2 ;
+Iter_9 = 3 ;
+Iter_10 = 4 ;
+Iter_11 = 2 ;
+Iter_12 = 2 ;
+Iter_13 = 3 ;
+Iter_14 = 2 ;
+Iter_15 = 1 ;
+Iter_16 = 1 ;
+Iter_17 = 2 ;
+Iter_29 = 1 ;
+Iter_30 = 1 ;
+Iter_35 = 1 ;
+Iter_63 = 1968 ;
+------------------------------------------------------- 
+now is 2016/11/20 22:33:29
+NUM_VAR       = 448 ;
+NUM_CHK       = 192 ;
+qc_size       = 16 ;
+max_iter      = 63 ;
+err_soft_level= 0 ;( nearly floating )
+SNR           = 0.7 ;(dB)
+Error_Bit     = 105392 ;
+Error_Block   = 1888 ;
+Total_Block   = 2000 ;
+Alias_Count   = 0 ;
+Average_Error = 55.2245 ;
+Average_Iter  = 60.1359 ;
+BLER          = 0.944 ; -0.25028dB
+Average_Error_of_Uncorrectable_Pattern = 55.822 ;
+  ----  Correctable initial Error Count ----- 
+Correctable_Error_34 = 1 ;
+Correctable_Error_35 = 1 ;
+Correctable_Error_36 = 2 ;
+Correctable_Error_37 = 2 ;
+Correctable_Error_38 = 3 ;
+Correctable_Error_39 = 2 ;
+Correctable_Error_40 = 2 ;
+Correctable_Error_41 = 10 ;
+Correctable_Error_42 = 10 ;
+Correctable_Error_43 = 10 ;
+Correctable_Error_44 = 9 ;
+Correctable_Error_45 = 4 ;
+Correctable_Error_46 = 7 ;
+Correctable_Error_47 = 5 ;
+Correctable_Error_48 = 6 ;
+Correctable_Error_49 = 8 ;
+Correctable_Error_50 = 8 ;
+Correctable_Error_51 = 8 ;
+Correctable_Error_52 = 5 ;
+Correctable_Error_53 = 4 ;
+Correctable_Error_54 = 2 ;
+Correctable_Error_55 = 2 ;
+Correctable_Error_57 = 1 ;
+  ----  Uncorrectable initial Error Count --- 
+Uncorrectable_Error_36 = 1 ;
+Uncorrectable_Error_38 = 2 ;
+Uncorrectable_Error_39 = 5 ;
+Uncorrectable_Error_40 = 3 ;
+Uncorrectable_Error_41 = 5 ;
+Uncorrectable_Error_42 = 7 ;
+Uncorrectable_Error_43 = 7 ;
+Uncorrectable_Error_44 = 19 ;
+Uncorrectable_Error_45 = 27 ;
+Uncorrectable_Error_46 = 51 ;
+Uncorrectable_Error_47 = 49 ;
+Uncorrectable_Error_48 = 58 ;
+Uncorrectable_Error_49 = 61 ;
+Uncorrectable_Error_50 = 103 ;
+Uncorrectable_Error_51 = 104 ;
+Uncorrectable_Error_52 = 107 ;
+Uncorrectable_Error_53 = 101 ;
+Uncorrectable_Error_54 = 100 ;
+Uncorrectable_Error_55 = 127 ;
+Uncorrectable_Error_56 = 109 ;
+Uncorrectable_Error_57 = 119 ;
+Uncorrectable_Error_58 = 111 ;
+Uncorrectable_Error_59 = 88 ;
+Uncorrectable_Error_60 = 79 ;
+Uncorrectable_Error_61 = 89 ;
+Uncorrectable_Error_62 = 76 ;
+Uncorrectable_Error_63 = 61 ;
+Uncorrectable_Error_64 = 45 ;
+Uncorrectable_Error_65 = 39 ;
+Uncorrectable_Error_66 = 30 ;
+Uncorrectable_Error_67 = 24 ;
+Uncorrectable_Error_68 = 15 ;
+Uncorrectable_Error_69 = 19 ;
+Uncorrectable_Error_70 = 14 ;
+Uncorrectable_Error_71 = 12 ;
+Uncorrectable_Error_72 = 14 ;
+Uncorrectable_Error_73 = 1 ;
+Uncorrectable_Error_74 = 3 ;
+Uncorrectable_Error_75 = 2 ;
+Uncorrectable_Error_76 = 1 ;
+  ---- Alias distance ----------------------- 
+  ---- Iteration --------------------------- 
+Iter_4 = 3 ;
+Iter_5 = 4 ;
+Iter_6 = 5 ;
+Iter_7 = 10 ;
+Iter_8 = 12 ;
+Iter_9 = 13 ;
+Iter_10 = 10 ;
+Iter_11 = 8 ;
+Iter_12 = 9 ;
+Iter_13 = 3 ;
+Iter_14 = 8 ;
+Iter_15 = 6 ;
+Iter_16 = 6 ;
+Iter_17 = 2 ;
+Iter_18 = 2 ;
+Iter_21 = 2 ;
+Iter_22 = 2 ;
+Iter_24 = 1 ;
+Iter_27 = 1 ;
+Iter_38 = 1 ;
+Iter_39 = 2 ;
+Iter_44 = 1 ;
+Iter_48 = 1 ;
+Iter_63 = 1888 ;
+------------------------------------------------------- 
+now is 2016/11/20 22:33:38
+NUM_VAR       = 448 ;
+NUM_CHK       = 192 ;
+qc_size       = 16 ;
+max_iter      = 63 ;
+err_soft_level= 0 ;( nearly floating )
+SNR           = 1 ;(dB)
+Error_Bit     = 88946 ;
+Error_Block   = 1681 ;
+Total_Block   = 2000 ;
+Alias_Count   = 0 ;
+Average_Error = 51.4695 ;
+Average_Iter  = 54.6821 ;
+BLER          = 0.8405 ; -0.754623dB
+Average_Error_of_Uncorrectable_Pattern = 52.9126 ;
+  ----  Correctable initial Error Count ----- 
+Correctable_Error_28 = 1 ;
+Correctable_Error_30 = 1 ;
+Correctable_Error_32 = 2 ;
+Correctable_Error_33 = 3 ;
+Correctable_Error_34 = 3 ;
+Correctable_Error_35 = 2 ;
+Correctable_Error_36 = 9 ;
+Correctable_Error_37 = 8 ;
+Correctable_Error_38 = 5 ;
+Correctable_Error_39 = 17 ;
+Correctable_Error_40 = 26 ;
+Correctable_Error_41 = 29 ;
+Correctable_Error_42 = 21 ;
+Correctable_Error_43 = 24 ;
+Correctable_Error_44 = 19 ;
+Correctable_Error_45 = 26 ;
+Correctable_Error_46 = 25 ;
+Correctable_Error_47 = 27 ;
+Correctable_Error_48 = 14 ;
+Correctable_Error_49 = 12 ;
+Correctable_Error_50 = 14 ;
+Correctable_Error_51 = 8 ;
+Correctable_Error_52 = 8 ;
+Correctable_Error_53 = 4 ;
+Correctable_Error_54 = 2 ;
+Correctable_Error_55 = 6 ;
+Correctable_Error_56 = 2 ;
+Correctable_Error_59 = 1 ;
+  ----  Uncorrectable initial Error Count --- 
+Uncorrectable_Error_34 = 1 ;
+Uncorrectable_Error_36 = 1 ;
+Uncorrectable_Error_37 = 1 ;
+Uncorrectable_Error_38 = 5 ;
+Uncorrectable_Error_39 = 6 ;
+Uncorrectable_Error_40 = 5 ;
+Uncorrectable_Error_41 = 20 ;
+Uncorrectable_Error_42 = 22 ;
+Uncorrectable_Error_43 = 39 ;
+Uncorrectable_Error_44 = 34 ;
+Uncorrectable_Error_45 = 56 ;
+Uncorrectable_Error_46 = 59 ;
+Uncorrectable_Error_47 = 79 ;
+Uncorrectable_Error_48 = 80 ;
+Uncorrectable_Error_49 = 83 ;
+Uncorrectable_Error_50 = 105 ;
+Uncorrectable_Error_51 = 97 ;
+Uncorrectable_Error_52 = 111 ;
+Uncorrectable_Error_53 = 106 ;
+Uncorrectable_Error_54 = 117 ;
+Uncorrectable_Error_55 = 99 ;
+Uncorrectable_Error_56 = 97 ;
+Uncorrectable_Error_57 = 95 ;
+Uncorrectable_Error_58 = 79 ;
+Uncorrectable_Error_59 = 56 ;
+Uncorrectable_Error_60 = 47 ;
+Uncorrectable_Error_61 = 30 ;
+Uncorrectable_Error_62 = 44 ;
+Uncorrectable_Error_63 = 36 ;
+Uncorrectable_Error_64 = 13 ;
+Uncorrectable_Error_65 = 14 ;
+Uncorrectable_Error_66 = 16 ;
+Uncorrectable_Error_67 = 15 ;
+Uncorrectable_Error_68 = 3 ;
+Uncorrectable_Error_69 = 5 ;
+Uncorrectable_Error_70 = 2 ;
+Uncorrectable_Error_72 = 1 ;
+Uncorrectable_Error_75 = 1 ;
+Uncorrectable_Error_76 = 1 ;
+  ---- Alias distance ----------------------- 
+  ---- Iteration --------------------------- 
+Iter_3 = 1 ;
+Iter_4 = 10 ;
+Iter_5 = 26 ;
+Iter_6 = 37 ;
+Iter_7 = 41 ;
+Iter_8 = 33 ;
+Iter_9 = 22 ;
+Iter_10 = 12 ;
+Iter_11 = 30 ;
+Iter_12 = 22 ;
+Iter_13 = 13 ;
+Iter_14 = 11 ;
+Iter_15 = 7 ;
+Iter_16 = 8 ;
+Iter_17 = 5 ;
+Iter_18 = 7 ;
+Iter_19 = 5 ;
+Iter_20 = 4 ;
+Iter_21 = 4 ;
+Iter_22 = 2 ;
+Iter_24 = 1 ;
+Iter_25 = 3 ;
+Iter_26 = 1 ;
+Iter_27 = 1 ;
+Iter_28 = 3 ;
+Iter_29 = 2 ;
+Iter_31 = 1 ;
+Iter_32 = 2 ;
+Iter_33 = 1 ;
+Iter_40 = 1 ;
+Iter_43 = 1 ;
+Iter_45 = 1 ;
+Iter_48 = 1 ;
+Iter_63 = 1681 ;
+------------------------------------------------------- 
+now is 2016/11/20 22:33:47
+NUM_VAR       = 448 ;
+NUM_CHK       = 192 ;
+qc_size       = 16 ;
+max_iter      = 63 ;
+err_soft_level= 0 ;( nearly floating )
+SNR           = 1.3 ;(dB)
+Error_Bit     = 67258 ;
+Error_Block   = 1325 ;
+Total_Block   = 2000 ;
+Alias_Count   = 0 ;
+Average_Error = 48.126 ;
+Average_Iter  = 45.3068 ;
+BLER          = 0.6625 ; -1.78814dB
+Average_Error_of_Uncorrectable_Pattern = 50.7608 ;
+  ----  Correctable initial Error Count ----- 
+Correctable_Error_26 = 1 ;
+Correctable_Error_28 = 2 ;
+Correctable_Error_31 = 3 ;
+Correctable_Error_32 = 7 ;
+Correctable_Error_33 = 5 ;
+Correctable_Error_34 = 7 ;
+Correctable_Error_35 = 14 ;
+Correctable_Error_36 = 19 ;
+Correctable_Error_37 = 30 ;
+Correctable_Error_38 = 26 ;
+Correctable_Error_39 = 37 ;
+Correctable_Error_40 = 51 ;
+Correctable_Error_41 = 49 ;
+Correctable_Error_42 = 62 ;
+Correctable_Error_43 = 61 ;
+Correctable_Error_44 = 48 ;
+Correctable_Error_45 = 46 ;
+Correctable_Error_46 = 44 ;
+Correctable_Error_47 = 36 ;
+Correctable_Error_48 = 36 ;
+Correctable_Error_49 = 20 ;
+Correctable_Error_50 = 25 ;
+Correctable_Error_51 = 22 ;
+Correctable_Error_52 = 11 ;
+Correctable_Error_53 = 7 ;
+Correctable_Error_54 = 5 ;
+Correctable_Error_61 = 1 ;
+  ----  Uncorrectable initial Error Count --- 
+Uncorrectable_Error_33 = 1 ;
+Uncorrectable_Error_35 = 4 ;
+Uncorrectable_Error_37 = 3 ;
+Uncorrectable_Error_38 = 6 ;
+Uncorrectable_Error_39 = 8 ;
+Uncorrectable_Error_40 = 18 ;
+Uncorrectable_Error_41 = 19 ;
+Uncorrectable_Error_42 = 30 ;
+Uncorrectable_Error_43 = 43 ;
+Uncorrectable_Error_44 = 55 ;
+Uncorrectable_Error_45 = 54 ;
+Uncorrectable_Error_46 = 58 ;
+Uncorrectable_Error_47 = 71 ;
+Uncorrectable_Error_48 = 80 ;
+Uncorrectable_Error_49 = 105 ;
+Uncorrectable_Error_50 = 113 ;
+Uncorrectable_Error_51 = 95 ;
+Uncorrectable_Error_52 = 93 ;
+Uncorrectable_Error_53 = 68 ;
+Uncorrectable_Error_54 = 66 ;
+Uncorrectable_Error_55 = 67 ;
+Uncorrectable_Error_56 = 57 ;
+Uncorrectable_Error_57 = 53 ;
+Uncorrectable_Error_58 = 35 ;
+Uncorrectable_Error_59 = 36 ;
+Uncorrectable_Error_60 = 20 ;
+Uncorrectable_Error_61 = 17 ;
+Uncorrectable_Error_62 = 20 ;
+Uncorrectable_Error_63 = 8 ;
+Uncorrectable_Error_64 = 8 ;
+Uncorrectable_Error_65 = 5 ;
+Uncorrectable_Error_66 = 2 ;
+Uncorrectable_Error_67 = 1 ;
+Uncorrectable_Error_68 = 3 ;
+Uncorrectable_Error_69 = 1 ;
+Uncorrectable_Error_71 = 1 ;
+Uncorrectable_Error_74 = 1 ;
+  ---- Alias distance ----------------------- 
+  ---- Iteration --------------------------- 
+Iter_3 = 3 ;
+Iter_4 = 25 ;
+Iter_5 = 62 ;
+Iter_6 = 100 ;
+Iter_7 = 79 ;
+Iter_8 = 73 ;
+Iter_9 = 53 ;
+Iter_10 = 44 ;
+Iter_11 = 40 ;
+Iter_12 = 36 ;
+Iter_13 = 20 ;
+Iter_14 = 20 ;
+Iter_15 = 14 ;
+Iter_16 = 21 ;
+Iter_17 = 14 ;
+Iter_18 = 12 ;
+Iter_19 = 8 ;
+Iter_20 = 8 ;
+Iter_21 = 4 ;
+Iter_22 = 5 ;
+Iter_23 = 1 ;
+Iter_24 = 2 ;
+Iter_25 = 2 ;
+Iter_26 = 5 ;
+Iter_27 = 2 ;
+Iter_28 = 1 ;
+Iter_29 = 1 ;
+Iter_30 = 3 ;
+Iter_32 = 2 ;
+Iter_34 = 3 ;
+Iter_35 = 1 ;
+Iter_38 = 2 ;
+Iter_43 = 1 ;
+Iter_46 = 1 ;
+Iter_48 = 1 ;
+Iter_51 = 1 ;
+Iter_53 = 1 ;
+Iter_55 = 1 ;
+Iter_59 = 1 ;
+Iter_61 = 1 ;
+Iter_62 = 1 ;
+Iter_63 = 1325 ;
+------------------------------------------------------- 
+now is 2016/11/20 22:33:53
+NUM_VAR       = 448 ;
+NUM_CHK       = 192 ;
+qc_size       = 16 ;
+max_iter      = 63 ;
+err_soft_level= 0 ;( nearly floating )
+SNR           = 1.6 ;(dB)
+Error_Bit     = 41856 ;
+Error_Block   = 865 ;
+Total_Block   = 2000 ;
+Alias_Count   = 0 ;
+Average_Error = 44.457 ;
+Average_Iter  = 32.1484 ;
+BLER          = 0.4325 ; -3.64014dB
+Average_Error_of_Uncorrectable_Pattern = 48.3884 ;
+  ----  Correctable initial Error Count ----- 
+Correctable_Error_23 = 1 ;
+Correctable_Error_26 = 2 ;
+Correctable_Error_27 = 1 ;
+Correctable_Error_28 = 2 ;
+Correctable_Error_29 = 4 ;
+Correctable_Error_30 = 4 ;
+Correctable_Error_31 = 8 ;
+Correctable_Error_32 = 21 ;
+Correctable_Error_33 = 28 ;
+Correctable_Error_34 = 37 ;
+Correctable_Error_35 = 39 ;
+Correctable_Error_36 = 36 ;
+Correctable_Error_37 = 61 ;
+Correctable_Error_38 = 76 ;
+Correctable_Error_39 = 67 ;
+Correctable_Error_40 = 82 ;
+Correctable_Error_41 = 95 ;
+Correctable_Error_42 = 81 ;
+Correctable_Error_43 = 92 ;
+Correctable_Error_44 = 73 ;
+Correctable_Error_45 = 82 ;
+Correctable_Error_46 = 59 ;
+Correctable_Error_47 = 46 ;
+Correctable_Error_48 = 41 ;
+Correctable_Error_49 = 32 ;
+Correctable_Error_50 = 25 ;
+Correctable_Error_51 = 14 ;
+Correctable_Error_52 = 17 ;
+Correctable_Error_53 = 5 ;
+Correctable_Error_54 = 1 ;
+Correctable_Error_55 = 2 ;
+Correctable_Error_58 = 1 ;
+  ----  Uncorrectable initial Error Count --- 
+Uncorrectable_Error_33 = 1 ;
+Uncorrectable_Error_34 = 3 ;
+Uncorrectable_Error_35 = 1 ;
+Uncorrectable_Error_36 = 3 ;
+Uncorrectable_Error_37 = 6 ;
+Uncorrectable_Error_38 = 10 ;
+Uncorrectable_Error_39 = 12 ;
+Uncorrectable_Error_40 = 21 ;
+Uncorrectable_Error_41 = 26 ;
+Uncorrectable_Error_42 = 23 ;
+Uncorrectable_Error_43 = 47 ;
+Uncorrectable_Error_44 = 47 ;
+Uncorrectable_Error_45 = 55 ;
+Uncorrectable_Error_46 = 50 ;
+Uncorrectable_Error_47 = 66 ;
+Uncorrectable_Error_48 = 77 ;
+Uncorrectable_Error_49 = 74 ;
+Uncorrectable_Error_50 = 60 ;
+Uncorrectable_Error_51 = 41 ;
+Uncorrectable_Error_52 = 54 ;
+Uncorrectable_Error_53 = 46 ;
+Uncorrectable_Error_54 = 35 ;
+Uncorrectable_Error_55 = 26 ;
+Uncorrectable_Error_56 = 24 ;
+Uncorrectable_Error_57 = 18 ;
+Uncorrectable_Error_58 = 16 ;
+Uncorrectable_Error_59 = 9 ;
+Uncorrectable_Error_60 = 6 ;
+Uncorrectable_Error_61 = 3 ;
+Uncorrectable_Error_63 = 2 ;
+Uncorrectable_Error_64 = 2 ;
+Uncorrectable_Error_65 = 1 ;
+  ---- Alias distance ----------------------- 
+  ---- Iteration --------------------------- 
+Iter_2 = 1 ;
+Iter_3 = 23 ;
+Iter_4 = 105 ;
+Iter_5 = 159 ;
+Iter_6 = 184 ;
+Iter_7 = 148 ;
+Iter_8 = 111 ;
+Iter_9 = 84 ;
+Iter_10 = 64 ;
+Iter_11 = 50 ;
+Iter_12 = 34 ;
+Iter_13 = 31 ;
+Iter_14 = 24 ;
+Iter_15 = 27 ;
+Iter_16 = 14 ;
+Iter_17 = 12 ;
+Iter_18 = 13 ;
+Iter_19 = 5 ;
+Iter_20 = 8 ;
+Iter_21 = 7 ;
+Iter_22 = 3 ;
+Iter_23 = 5 ;
+Iter_24 = 2 ;
+Iter_25 = 5 ;
+Iter_27 = 2 ;
+Iter_28 = 2 ;
+Iter_29 = 1 ;
+Iter_30 = 1 ;
+Iter_33 = 1 ;
+Iter_34 = 2 ;
+Iter_36 = 2 ;
+Iter_39 = 1 ;
+Iter_42 = 1 ;
+Iter_48 = 1 ;
+Iter_51 = 1 ;
+Iter_62 = 1 ;
+Iter_63 = 865 ;
+------------------------------------------------------- 
+now is 2016/11/20 22:33:58
+NUM_VAR       = 448 ;
+NUM_CHK       = 192 ;
+qc_size       = 16 ;
+max_iter      = 63 ;
+err_soft_level= 0 ;( nearly floating )
+SNR           = 1.9 ;(dB)
+Error_Bit     = 21559 ;
+Error_Block   = 461 ;
+Total_Block   = 2000 ;
+Alias_Count   = 0 ;
+Average_Error = 41.0825 ;
+Average_Iter  = 20.12 ;
+BLER          = 0.2305 ; -6.37329dB
+Average_Error_of_Uncorrectable_Pattern = 46.7657 ;
+  ----  Correctable initial Error Count ----- 
+Correctable_Error_23 = 1 ;
+Correctable_Error_24 = 3 ;
+Correctable_Error_25 = 3 ;
+Correctable_Error_26 = 4 ;
+Correctable_Error_27 = 6 ;
+Correctable_Error_28 = 16 ;
+Correctable_Error_29 = 26 ;
+Correctable_Error_30 = 20 ;
+Correctable_Error_31 = 31 ;
+Correctable_Error_32 = 37 ;
+Correctable_Error_33 = 51 ;
+Correctable_Error_34 = 80 ;
+Correctable_Error_35 = 90 ;
+Correctable_Error_36 = 89 ;
+Correctable_Error_37 = 104 ;
+Correctable_Error_38 = 130 ;
+Correctable_Error_39 = 111 ;
+Correctable_Error_40 = 89 ;
+Correctable_Error_41 = 106 ;
+Correctable_Error_42 = 109 ;
+Correctable_Error_43 = 84 ;
+Correctable_Error_44 = 81 ;
+Correctable_Error_45 = 63 ;
+Correctable_Error_46 = 46 ;
+Correctable_Error_47 = 52 ;
+Correctable_Error_48 = 37 ;
+Correctable_Error_49 = 22 ;
+Correctable_Error_50 = 13 ;
+Correctable_Error_51 = 15 ;
+Correctable_Error_52 = 9 ;
+Correctable_Error_53 = 5 ;
+Correctable_Error_54 = 3 ;
+Correctable_Error_55 = 1 ;
+Correctable_Error_56 = 2 ;
+  ----  Uncorrectable initial Error Count --- 
+Uncorrectable_Error_33 = 1 ;
+Uncorrectable_Error_35 = 3 ;
+Uncorrectable_Error_36 = 8 ;
+Uncorrectable_Error_37 = 5 ;
+Uncorrectable_Error_38 = 6 ;
+Uncorrectable_Error_39 = 6 ;
+Uncorrectable_Error_40 = 22 ;
+Uncorrectable_Error_41 = 22 ;
+Uncorrectable_Error_42 = 21 ;
+Uncorrectable_Error_43 = 35 ;
+Uncorrectable_Error_44 = 33 ;
+Uncorrectable_Error_45 = 28 ;
+Uncorrectable_Error_46 = 36 ;
+Uncorrectable_Error_47 = 32 ;
+Uncorrectable_Error_48 = 32 ;
+Uncorrectable_Error_49 = 33 ;
+Uncorrectable_Error_50 = 27 ;
+Uncorrectable_Error_51 = 31 ;
+Uncorrectable_Error_52 = 16 ;
+Uncorrectable_Error_53 = 21 ;
+Uncorrectable_Error_54 = 16 ;
+Uncorrectable_Error_55 = 7 ;
+Uncorrectable_Error_56 = 8 ;
+Uncorrectable_Error_57 = 3 ;
+Uncorrectable_Error_58 = 3 ;
+Uncorrectable_Error_60 = 2 ;
+Uncorrectable_Error_62 = 1 ;
+Uncorrectable_Error_63 = 1 ;
+Uncorrectable_Error_64 = 1 ;
+Uncorrectable_Error_65 = 1 ;
+  ---- Alias distance ----------------------- 
+  ---- Iteration --------------------------- 
+Iter_2 = 4 ;
+Iter_3 = 65 ;
+Iter_4 = 259 ;
+Iter_5 = 280 ;
+Iter_6 = 233 ;
+Iter_7 = 201 ;
+Iter_8 = 129 ;
+Iter_9 = 90 ;
+Iter_10 = 73 ;
+Iter_11 = 49 ;
+Iter_12 = 44 ;
+Iter_13 = 23 ;
+Iter_14 = 16 ;
+Iter_15 = 13 ;
+Iter_16 = 8 ;
+Iter_17 = 4 ;
+Iter_18 = 7 ;
+Iter_19 = 9 ;
+Iter_20 = 8 ;
+Iter_21 = 3 ;
+Iter_22 = 1 ;
+Iter_23 = 1 ;
+Iter_24 = 2 ;
+Iter_25 = 1 ;
+Iter_28 = 2 ;
+Iter_29 = 3 ;
+Iter_30 = 3 ;
+Iter_32 = 1 ;
+Iter_36 = 1 ;
+Iter_38 = 1 ;
+Iter_39 = 1 ;
+Iter_41 = 1 ;
+Iter_42 = 1 ;
+Iter_50 = 1 ;
+Iter_58 = 1 ;
+Iter_63 = 461 ;
+------------------------------------------------------- 
+now is 2016/11/20 22:34:1
+NUM_VAR       = 448 ;
+NUM_CHK       = 192 ;
+qc_size       = 16 ;
+max_iter      = 63 ;
+err_soft_level= 0 ;( nearly floating )
+SNR           = 2.2 ;(dB)
+Error_Bit     = 8916 ;
+Error_Block   = 200 ;
+Total_Block   = 2065 ;
+Alias_Count   = 0 ;
+Average_Error = 37.8085 ;
+Average_Iter  = 11.4696 ;
+BLER          = 0.0968523 ; -10.1389dB
+Average_Error_of_Uncorrectable_Pattern = 44.58 ;
+  ----  Correctable initial Error Count ----- 
+Correctable_Error_20 = 3 ;
+Correctable_Error_21 = 2 ;
+Correctable_Error_23 = 7 ;
+Correctable_Error_24 = 5 ;
+Correctable_Error_25 = 15 ;
+Correctable_Error_26 = 14 ;
+Correctable_Error_27 = 29 ;
+Correctable_Error_28 = 30 ;
+Correctable_Error_29 = 41 ;
+Correctable_Error_30 = 65 ;
+Correctable_Error_31 = 80 ;
+Correctable_Error_32 = 84 ;
+Correctable_Error_33 = 107 ;
+Correctable_Error_34 = 121 ;
+Correctable_Error_35 = 108 ;
+Correctable_Error_36 = 144 ;
+Correctable_Error_37 = 141 ;
+Correctable_Error_38 = 125 ;
+Correctable_Error_39 = 121 ;
+Correctable_Error_40 = 119 ;
+Correctable_Error_41 = 108 ;
+Correctable_Error_42 = 92 ;
+Correctable_Error_43 = 83 ;
+Correctable_Error_44 = 72 ;
+Correctable_Error_45 = 52 ;
+Correctable_Error_46 = 29 ;
+Correctable_Error_47 = 21 ;
+Correctable_Error_48 = 14 ;
+Correctable_Error_49 = 13 ;
+Correctable_Error_50 = 5 ;
+Correctable_Error_51 = 6 ;
+Correctable_Error_52 = 1 ;
+Correctable_Error_53 = 3 ;
+Correctable_Error_54 = 1 ;
+Correctable_Error_55 = 2 ;
+Correctable_Error_57 = 1 ;
+Correctable_Error_58 = 1 ;
+  ----  Uncorrectable initial Error Count --- 
+Uncorrectable_Error_32 = 3 ;
+Uncorrectable_Error_34 = 4 ;
+Uncorrectable_Error_35 = 3 ;
+Uncorrectable_Error_36 = 1 ;
+Uncorrectable_Error_37 = 3 ;
+Uncorrectable_Error_38 = 8 ;
+Uncorrectable_Error_39 = 5 ;
+Uncorrectable_Error_40 = 12 ;
+Uncorrectable_Error_41 = 13 ;
+Uncorrectable_Error_42 = 17 ;
+Uncorrectable_Error_43 = 21 ;
+Uncorrectable_Error_44 = 14 ;
+Uncorrectable_Error_45 = 19 ;
+Uncorrectable_Error_46 = 12 ;
+Uncorrectable_Error_47 = 14 ;
+Uncorrectable_Error_48 = 9 ;
+Uncorrectable_Error_49 = 4 ;
+Uncorrectable_Error_50 = 8 ;
+Uncorrectable_Error_51 = 8 ;
+Uncorrectable_Error_52 = 7 ;
+Uncorrectable_Error_53 = 5 ;
+Uncorrectable_Error_54 = 2 ;
+Uncorrectable_Error_55 = 3 ;
+Uncorrectable_Error_56 = 3 ;
+Uncorrectable_Error_58 = 2 ;
+  ---- Alias distance ----------------------- 
+  ---- Iteration --------------------------- 
+Iter_2 = 13 ;
+Iter_3 = 209 ;
+Iter_4 = 460 ;
+Iter_5 = 365 ;
+Iter_6 = 295 ;
+Iter_7 = 172 ;
+Iter_8 = 105 ;
+Iter_9 = 80 ;
+Iter_10 = 52 ;
+Iter_11 = 28 ;
+Iter_12 = 24 ;
+Iter_13 = 14 ;
+Iter_14 = 8 ;
+Iter_15 = 6 ;
+Iter_16 = 6 ;
+Iter_17 = 3 ;
+Iter_18 = 4 ;
+Iter_19 = 5 ;
+Iter_20 = 1 ;
+Iter_21 = 2 ;
+Iter_22 = 2 ;
+Iter_23 = 4 ;
+Iter_24 = 1 ;
+Iter_25 = 1 ;
+Iter_26 = 1 ;
+Iter_27 = 1 ;
+Iter_29 = 2 ;
+Iter_63 = 201 ;
+------------------------------------------------------- 
+now is 2016/11/20 22:34:3
+NUM_VAR       = 448 ;
+NUM_CHK       = 192 ;
+qc_size       = 16 ;
+max_iter      = 63 ;
+err_soft_level= 0 ;( nearly floating )
+SNR           = 2.5 ;(dB)
+Error_Bit     = 8607 ;
+Error_Block   = 200 ;
+Total_Block   = 7009 ;
+Alias_Count   = 0 ;
+Average_Error = 34.4779 ;
+Average_Iter  = 6.56645 ;
+BLER          = 0.0285347 ; -15.4463dB
+Average_Error_of_Uncorrectable_Pattern = 43.035 ;
+  ----  Correctable initial Error Count ----- 
+Correctable_Error_15 = 1 ;
+Correctable_Error_17 = 1 ;
+Correctable_Error_18 = 3 ;
+Correctable_Error_19 = 4 ;
+Correctable_Error_20 = 17 ;
+Correctable_Error_21 = 16 ;
+Correctable_Error_22 = 35 ;
+Correctable_Error_23 = 70 ;
+Correctable_Error_24 = 84 ;
+Correctable_Error_25 = 138 ;
+Correctable_Error_26 = 157 ;
+Correctable_Error_27 = 190 ;
+Correctable_Error_28 = 285 ;
+Correctable_Error_29 = 342 ;
+Correctable_Error_30 = 355 ;
+Correctable_Error_31 = 441 ;
+Correctable_Error_32 = 420 ;
+Correctable_Error_33 = 513 ;
+Correctable_Error_34 = 481 ;
+Correctable_Error_35 = 496 ;
+Correctable_Error_36 = 436 ;
+Correctable_Error_37 = 476 ;
+Correctable_Error_38 = 402 ;
+Correctable_Error_39 = 329 ;
+Correctable_Error_40 = 276 ;
+Correctable_Error_41 = 214 ;
+Correctable_Error_42 = 170 ;
+Correctable_Error_43 = 137 ;
+Correctable_Error_44 = 114 ;
+Correctable_Error_45 = 62 ;
+Correctable_Error_46 = 65 ;
+Correctable_Error_47 = 34 ;
+Correctable_Error_48 = 16 ;
+Correctable_Error_49 = 12 ;
+Correctable_Error_50 = 9 ;
+Correctable_Error_51 = 3 ;
+Correctable_Error_52 = 2 ;
+Correctable_Error_53 = 1 ;
+Correctable_Error_54 = 1 ;
+Correctable_Error_57 = 1 ;
+  ----  Uncorrectable initial Error Count --- 
+Uncorrectable_Error_30 = 1 ;
+Uncorrectable_Error_32 = 2 ;
+Uncorrectable_Error_33 = 3 ;
+Uncorrectable_Error_34 = 1 ;
+Uncorrectable_Error_35 = 2 ;
+Uncorrectable_Error_36 = 3 ;
+Uncorrectable_Error_37 = 11 ;
+Uncorrectable_Error_38 = 15 ;
+Uncorrectable_Error_39 = 18 ;
+Uncorrectable_Error_40 = 12 ;
+Uncorrectable_Error_41 = 17 ;
+Uncorrectable_Error_42 = 14 ;
+Uncorrectable_Error_43 = 11 ;
+Uncorrectable_Error_44 = 19 ;
+Uncorrectable_Error_45 = 8 ;
+Uncorrectable_Error_46 = 14 ;
+Uncorrectable_Error_47 = 13 ;
+Uncorrectable_Error_48 = 7 ;
+Uncorrectable_Error_49 = 6 ;
+Uncorrectable_Error_50 = 4 ;
+Uncorrectable_Error_51 = 7 ;
+Uncorrectable_Error_52 = 4 ;
+Uncorrectable_Error_53 = 3 ;
+Uncorrectable_Error_55 = 3 ;
+Uncorrectable_Error_57 = 1 ;
+Uncorrectable_Error_58 = 1 ;
+  ---- Alias distance ----------------------- 
+  ---- Iteration --------------------------- 
+Iter_2 = 72 ;
+Iter_3 = 1522 ;
+Iter_4 = 2204 ;
+Iter_5 = 1346 ;
+Iter_6 = 726 ;
+Iter_7 = 388 ;
+Iter_8 = 169 ;
+Iter_9 = 127 ;
+Iter_10 = 67 ;
+Iter_11 = 47 ;
+Iter_12 = 23 ;
+Iter_13 = 24 ;
+Iter_14 = 16 ;
+Iter_15 = 13 ;
+Iter_16 = 7 ;
+Iter_17 = 16 ;
+Iter_18 = 7 ;
+Iter_19 = 6 ;
+Iter_20 = 4 ;
+Iter_21 = 4 ;
+Iter_22 = 2 ;
+Iter_23 = 3 ;
+Iter_24 = 2 ;
+Iter_25 = 3 ;
+Iter_26 = 2 ;
+Iter_27 = 2 ;
+Iter_33 = 1 ;
+Iter_34 = 1 ;
+Iter_38 = 1 ;
+Iter_39 = 1 ;
+Iter_54 = 1 ;
+Iter_56 = 2 ;
+Iter_63 = 200 ;
+------------------------------------------------------- 
+now is 2016/11/20 22:34:7
+NUM_VAR       = 448 ;
+NUM_CHK       = 192 ;
+qc_size       = 16 ;
+max_iter      = 63 ;
+err_soft_level= 0 ;( nearly floating )
+SNR           = 2.8 ;(dB)
+Error_Bit     = 6345 ;
+Error_Block   = 152 ;
+Total_Block   = 20000 ;
+Alias_Count   = 0 ;
+Average_Error = 31.3785 ;
+Average_Iter  = 4.54168 ;
+BLER          = 0.0076 ; -21.1919dB
+Average_Error_of_Uncorrectable_Pattern = 41.7434 ;
+  ----  Correctable initial Error Count ----- 
+Correctable_Error_12 = 1 ;
+Correctable_Error_13 = 3 ;
+Correctable_Error_14 = 1 ;
+Correctable_Error_15 = 5 ;
+Correctable_Error_16 = 20 ;
+Correctable_Error_17 = 34 ;
+Correctable_Error_18 = 45 ;
+Correctable_Error_19 = 85 ;
+Correctable_Error_20 = 162 ;
+Correctable_Error_21 = 221 ;
+Correctable_Error_22 = 318 ;
+Correctable_Error_23 = 454 ;
+Correctable_Error_24 = 578 ;
+Correctable_Error_25 = 797 ;
+Correctable_Error_26 = 929 ;
+Correctable_Error_27 = 1126 ;
+Correctable_Error_28 = 1248 ;
+Correctable_Error_29 = 1427 ;
+Correctable_Error_30 = 1498 ;
+Correctable_Error_31 = 1520 ;
+Correctable_Error_32 = 1466 ;
+Correctable_Error_33 = 1356 ;
+Correctable_Error_34 = 1237 ;
+Correctable_Error_35 = 1071 ;
+Correctable_Error_36 = 949 ;
+Correctable_Error_37 = 767 ;
+Correctable_Error_38 = 688 ;
+Correctable_Error_39 = 525 ;
+Correctable_Error_40 = 395 ;
+Correctable_Error_41 = 298 ;
+Correctable_Error_42 = 200 ;
+Correctable_Error_43 = 145 ;
+Correctable_Error_44 = 106 ;
+Correctable_Error_45 = 63 ;
+Correctable_Error_46 = 42 ;
+Correctable_Error_47 = 27 ;
+Correctable_Error_48 = 18 ;
+Correctable_Error_49 = 9 ;
+Correctable_Error_50 = 8 ;
+Correctable_Error_51 = 3 ;
+Correctable_Error_52 = 2 ;
+Correctable_Error_53 = 1 ;
+  ----  Uncorrectable initial Error Count --- 
+Uncorrectable_Error_27 = 1 ;
+Uncorrectable_Error_30 = 1 ;
+Uncorrectable_Error_31 = 2 ;
+Uncorrectable_Error_32 = 4 ;
+Uncorrectable_Error_33 = 5 ;
+Uncorrectable_Error_34 = 5 ;
+Uncorrectable_Error_35 = 5 ;
+Uncorrectable_Error_36 = 7 ;
+Uncorrectable_Error_37 = 5 ;
+Uncorrectable_Error_38 = 9 ;
+Uncorrectable_Error_39 = 10 ;
+Uncorrectable_Error_40 = 6 ;
+Uncorrectable_Error_41 = 12 ;
+Uncorrectable_Error_42 = 11 ;
+Uncorrectable_Error_43 = 7 ;
+Uncorrectable_Error_44 = 15 ;
+Uncorrectable_Error_45 = 8 ;
+Uncorrectable_Error_46 = 8 ;
+Uncorrectable_Error_47 = 9 ;
+Uncorrectable_Error_48 = 4 ;
+Uncorrectable_Error_49 = 7 ;
+Uncorrectable_Error_50 = 4 ;
+Uncorrectable_Error_52 = 3 ;
+Uncorrectable_Error_54 = 2 ;
+Uncorrectable_Error_56 = 1 ;
+Uncorrectable_Error_58 = 1 ;
+  ---- Alias distance ----------------------- 
+  ---- Iteration --------------------------- 
+Iter_2 = 663 ;
+Iter_3 = 7370 ;
+Iter_4 = 6693 ;
+Iter_5 = 2888 ;
+Iter_6 = 1099 ;
+Iter_7 = 495 ;
+Iter_8 = 240 ;
+Iter_9 = 132 ;
+Iter_10 = 77 ;
+Iter_11 = 52 ;
+Iter_12 = 38 ;
+Iter_13 = 25 ;
+Iter_14 = 10 ;
+Iter_15 = 12 ;
+Iter_16 = 13 ;
+Iter_17 = 9 ;
+Iter_18 = 5 ;
+Iter_19 = 4 ;
+Iter_20 = 2 ;
+Iter_21 = 2 ;
+Iter_22 = 2 ;
+Iter_23 = 1 ;
+Iter_25 = 1 ;
+Iter_26 = 1 ;
+Iter_27 = 1 ;
+Iter_28 = 1 ;
+Iter_29 = 1 ;
+Iter_30 = 1 ;
+Iter_32 = 1 ;
+Iter_33 = 1 ;
+Iter_34 = 2 ;
+Iter_35 = 2 ;
+Iter_37 = 1 ;
+Iter_38 = 1 ;
+Iter_39 = 1 ;
+Iter_48 = 1 ;
+Iter_63 = 152 ;
+------------------------------------------------------- 
+now is 2016/11/20 22:34:16
+32/47/52998 , 0
+36/48/53419 , 0
+44/49/55238 , 0
+41/50/55796 , 0
+33/51/55887 , 0
+34/52/56897 , 0
+42/53/58628 , 0
+42/54/58688 , 0
+43/55/58889 , 0
+37/56/60455 , 0
+27/57/61860 , 0
+37/58/62966 , 0
+35/59/63288 , 0
+28/60/63546 , 0
+28/61/63745 , 0
+34/62/64789 , 0
+38/63/65277 , 0
+43/64/65615 , 0
+35/65/66158 , 0
+46/66/66381 , 0
+48/67/66777 , 0
+34/68/67366 , 0
+52/69/68362 , 0
+NUM_VAR       = 448 ;
+NUM_CHK       = 192 ;
+qc_size       = 16 ;
+max_iter      = 63 ;
+err_soft_level= 0 ;( nearly floating )
+SNR           = 3.1 ;(dB)
+Error_Bit     = 2636 ;
+Error_Block   = 70 ;
+Total_Block   = 68362 ;
+Alias_Count   = 0 ;
+Average_Error = 28.3948 ;
+Average_Iter  = 3.57328 ;
+BLER          = 0.00102396 ; -29.8972dB
+Average_Error_of_Uncorrectable_Pattern = 37.6571 ;
+  ----  Correctable initial Error Count ----- 
+Correctable_Error_10 = 4 ;
+Correctable_Error_11 = 3 ;
+Correctable_Error_12 = 25 ;
+Correctable_Error_13 = 25 ;
+Correctable_Error_14 = 66 ;
+Correctable_Error_15 = 130 ;
+Correctable_Error_16 = 225 ;
+Correctable_Error_17 = 367 ;
+Correctable_Error_18 = 658 ;
+Correctable_Error_19 = 944 ;
+Correctable_Error_20 = 1450 ;
+Correctable_Error_21 = 1899 ;
+Correctable_Error_22 = 2473 ;
+Correctable_Error_23 = 3256 ;
+Correctable_Error_24 = 3867 ;
+Correctable_Error_25 = 4606 ;
+Correctable_Error_26 = 4960 ;
+Correctable_Error_27 = 5220 ;
+Correctable_Error_28 = 5352 ;
+Correctable_Error_29 = 5184 ;
+Correctable_Error_30 = 5021 ;
+Correctable_Error_31 = 4500 ;
+Correctable_Error_32 = 3881 ;
+Correctable_Error_33 = 3349 ;
+Correctable_Error_34 = 2774 ;
+Correctable_Error_35 = 2254 ;
+Correctable_Error_36 = 1678 ;
+Correctable_Error_37 = 1208 ;
+Correctable_Error_38 = 928 ;
+Correctable_Error_39 = 694 ;
+Correctable_Error_40 = 453 ;
+Correctable_Error_41 = 324 ;
+Correctable_Error_42 = 200 ;
+Correctable_Error_43 = 123 ;
+Correctable_Error_44 = 95 ;
+Correctable_Error_45 = 34 ;
+Correctable_Error_46 = 23 ;
+Correctable_Error_47 = 18 ;
+Correctable_Error_48 = 6 ;
+Correctable_Error_49 = 8 ;
+Correctable_Error_50 = 2 ;
+Correctable_Error_51 = 2 ;
+Correctable_Error_52 = 3 ;
+  ----  Uncorrectable initial Error Count --- 
+Uncorrectable_Error_27 = 3 ;
+Uncorrectable_Error_28 = 2 ;
+Uncorrectable_Error_30 = 1 ;
+Uncorrectable_Error_32 = 3 ;
+Uncorrectable_Error_33 = 3 ;
+Uncorrectable_Error_34 = 8 ;
+Uncorrectable_Error_35 = 10 ;
+Uncorrectable_Error_36 = 1 ;
+Uncorrectable_Error_37 = 5 ;
+Uncorrectable_Error_38 = 4 ;
+Uncorrectable_Error_39 = 5 ;
+Uncorrectable_Error_40 = 4 ;
+Uncorrectable_Error_41 = 5 ;
+Uncorrectable_Error_42 = 4 ;
+Uncorrectable_Error_43 = 3 ;
+Uncorrectable_Error_44 = 2 ;
+Uncorrectable_Error_46 = 3 ;
+Uncorrectable_Error_47 = 1 ;
+Uncorrectable_Error_48 = 1 ;
+Uncorrectable_Error_49 = 1 ;
+Uncorrectable_Error_52 = 1 ;
+  ---- Alias distance ----------------------- 
+  ---- Iteration --------------------------- 
+Iter_2 = 5664 ;
+Iter_3 = 34981 ;
+Iter_4 = 19302 ;
+Iter_5 = 5537 ;
+Iter_6 = 1689 ;
+Iter_7 = 603 ;
+Iter_8 = 233 ;
+Iter_9 = 114 ;
+Iter_10 = 48 ;
+Iter_11 = 31 ;
+Iter_12 = 20 ;
+Iter_13 = 17 ;
+Iter_14 = 12 ;
+Iter_15 = 6 ;
+Iter_16 = 4 ;
+Iter_17 = 4 ;
+Iter_18 = 1 ;
+Iter_19 = 3 ;
+Iter_20 = 4 ;
+Iter_21 = 3 ;
+Iter_23 = 1 ;
+Iter_24 = 2 ;
+Iter_25 = 1 ;
+Iter_26 = 1 ;
+Iter_27 = 2 ;
+Iter_29 = 1 ;
+Iter_31 = 1 ;
+Iter_34 = 1 ;
+Iter_36 = 2 ;
+Iter_43 = 1 ;
+Iter_45 = 1 ;
+Iter_54 = 1 ;
+Iter_62 = 1 ;
+Iter_63 = 70 ;
+------------------------------------------------------- 
+now is 2016/11/20 22:34:41
+37/9/51236 , 0
+36/10/61289 , 0
+40/11/66101 , 0
+29/12/71287 , 0
+35/13/73650 , 0
+23/14/75670 , 0
+32/15/77063 , 0
+28/16/83270 , 0
+35/17/99971 , 0
+37/18/106905 , 0
+32/19/108809 , 0
+37/20/109000 , 0
+43/21/109640 , 0
+41/22/111702 , 0
+36/23/113311 , 0
+34/24/124885 , 0
+42/25/127462 , 0
+40/26/131405 , 0
+31/27/143395 , 0
+40/28/151988 , 0
+37/29/152051 , 0
+46/30/171384 , 0
+40/31/173662 , 0
+31/32/174298 , 0
+26/33/182417 , 0
+34/34/186940 , 0
+40/35/189832 , 0
+32/36/191912 , 0
+30/37/201296 , 0
+49/38/201629 , 0
+35/39/208807 , 0
+25/40/209522 , 0
+46/41/211988 , 0
+37/42/212378 , 0
+33/43/214310 , 0
+33/44/217753 , 0
+29/45/220330 , 0
+37/46/221105 , 0
+36/47/231667 , 0
+24/48/239625 , 0
+34/49/251343 , 0
+37/50/252120 , 0
+32/51/259471 , 0
+31/52/260488 , 0
+38/53/262494 , 0
+39/54/269412 , 0
+30/55/275499 , 0
+29/56/294129 , 0
+39/57/303155 , 0
+26/58/312606 , 0
+40/59/327239 , 0
+37/60/335904 , 0
+44/61/344768 , 0
+35/62/354038 , 0
+29/63/356112 , 0
+37/64/372764 , 0
+24/65/376845 , 0
+37/66/390552 , 0
+26/67/398078 , 0
+26/68/402653 , 0
+42/69/402804 , 0
+NUM_VAR       = 448 ;
+NUM_CHK       = 192 ;
+qc_size       = 16 ;
+max_iter      = 63 ;
+err_soft_level= 0 ;( nearly floating )
+SNR           = 3.4 ;(dB)
+Error_Bit     = 2442 ;
+Error_Block   = 70 ;
+Total_Block   = 402804 ;
+Alias_Count   = 0 ;
+Average_Error = 25.4622 ;
+Average_Iter  = 3.11923 ;
+BLER          = 0.000173782 ; -37.6dB
+Average_Error_of_Uncorrectable_Pattern = 34.8857 ;
+  ----  Correctable initial Error Count ----- 
+Correctable_Error_7 = 3 ;
+Correctable_Error_8 = 11 ;
+Correctable_Error_9 = 41 ;
+Correctable_Error_10 = 86 ;
+Correctable_Error_11 = 217 ;
+Correctable_Error_12 = 438 ;
+Correctable_Error_13 = 953 ;
+Correctable_Error_14 = 1695 ;
+Correctable_Error_15 = 3000 ;
+Correctable_Error_16 = 4760 ;
+Correctable_Error_17 = 7338 ;
+Correctable_Error_18 = 10566 ;
+Correctable_Error_19 = 14473 ;
+Correctable_Error_20 = 18866 ;
+Correctable_Error_21 = 23099 ;
+Correctable_Error_22 = 27133 ;
+Correctable_Error_23 = 30045 ;
+Correctable_Error_24 = 31899 ;
+Correctable_Error_25 = 32776 ;
+Correctable_Error_26 = 32012 ;
+Correctable_Error_27 = 30299 ;
+Correctable_Error_28 = 27727 ;
+Correctable_Error_29 = 23946 ;
+Correctable_Error_30 = 20231 ;
+Correctable_Error_31 = 16310 ;
+Correctable_Error_32 = 12934 ;
+Correctable_Error_33 = 9627 ;
+Correctable_Error_34 = 7197 ;
+Correctable_Error_35 = 5123 ;
+Correctable_Error_36 = 3637 ;
+Correctable_Error_37 = 2356 ;
+Correctable_Error_38 = 1559 ;
+Correctable_Error_39 = 995 ;
+Correctable_Error_40 = 582 ;
+Correctable_Error_41 = 359 ;
+Correctable_Error_42 = 198 ;
+Correctable_Error_43 = 116 ;
+Correctable_Error_44 = 60 ;
+Correctable_Error_45 = 29 ;
+Correctable_Error_46 = 15 ;
+Correctable_Error_47 = 10 ;
+Correctable_Error_48 = 5 ;
+Correctable_Error_49 = 2 ;
+Correctable_Error_50 = 3 ;
+Correctable_Error_51 = 2 ;
+Correctable_Error_52 = 1 ;
+  ----  Uncorrectable initial Error Count --- 
+Uncorrectable_Error_23 = 1 ;
+Uncorrectable_Error_24 = 2 ;
+Uncorrectable_Error_25 = 1 ;
+Uncorrectable_Error_26 = 4 ;
+Uncorrectable_Error_28 = 2 ;
+Uncorrectable_Error_29 = 4 ;
+Uncorrectable_Error_30 = 3 ;
+Uncorrectable_Error_31 = 3 ;
+Uncorrectable_Error_32 = 4 ;
+Uncorrectable_Error_33 = 2 ;
+Uncorrectable_Error_34 = 4 ;
+Uncorrectable_Error_35 = 5 ;
+Uncorrectable_Error_36 = 5 ;
+Uncorrectable_Error_37 = 10 ;
+Uncorrectable_Error_38 = 1 ;
+Uncorrectable_Error_39 = 2 ;
+Uncorrectable_Error_40 = 7 ;
+Uncorrectable_Error_41 = 2 ;
+Uncorrectable_Error_42 = 3 ;
+Uncorrectable_Error_43 = 1 ;
+Uncorrectable_Error_44 = 1 ;
+Uncorrectable_Error_46 = 2 ;
+Uncorrectable_Error_49 = 1 ;
+  ---- Alias distance ----------------------- 
+  ---- Iteration --------------------------- 
+Iter_2 = 67905 ;
+Iter_3 = 241774 ;
+Iter_4 = 74866 ;
+Iter_5 = 13710 ;
+Iter_6 = 2999 ;
+Iter_7 = 855 ;
+Iter_8 = 272 ;
+Iter_9 = 139 ;
+Iter_10 = 79 ;
+Iter_11 = 38 ;
+Iter_12 = 19 ;
+Iter_13 = 13 ;
+Iter_14 = 17 ;
+Iter_15 = 5 ;
+Iter_16 = 5 ;
+Iter_17 = 6 ;
+Iter_18 = 8 ;
+Iter_19 = 1 ;
+Iter_20 = 5 ;
+Iter_21 = 2 ;
+Iter_22 = 2 ;
+Iter_23 = 1 ;
+Iter_24 = 3 ;
+Iter_25 = 1 ;
+Iter_26 = 1 ;
+Iter_29 = 1 ;
+Iter_30 = 1 ;
+Iter_31 = 1 ;
+Iter_34 = 2 ;
+Iter_42 = 1 ;
+Iter_57 = 1 ;
+Iter_61 = 1 ;
+Iter_63 = 70 ;
+------------------------------------------------------- 
+now is 2016/11/20 22:36:52
+40/1/87335 , 0
+31/2/105612 , 0
+34/3/133989 , 0
+36/4/303350 , 0
+28/5/323624 , 0
+31/6/338753 , 0
+32/7/375673 , 0
+35/8/377480 , 0
+31/9/415204 , 0
+32/10/427227 , 0
+30/11/458546 , 0
+31/12/553801 , 0
+26/13/583578 , 0
+30/14/629639 , 0
+34/15/721835 , 0
+34/16/778648 , 0
+NUM_VAR       = 448 ;
+NUM_CHK       = 192 ;
+qc_size       = 16 ;
+max_iter      = 63 ;
+err_soft_level= 0 ;( nearly floating )
+SNR           = 3.7 ;(dB)
+Error_Bit     = 542 ;
+Error_Block   = 17 ;
+Total_Block   = 800001 ;
+Alias_Count   = 0 ;
+Average_Error = 22.7724 ;
+Average_Iter  = 2.82526 ;
+BLER          = 2.125e-05 ; -46.7264dB
+Average_Error_of_Uncorrectable_Pattern = 31.8824 ;
+  ----  Correctable initial Error Count ----- 
+Correctable_Error_5 = 5 ;
+Correctable_Error_6 = 19 ;
+Correctable_Error_7 = 49 ;
+Correctable_Error_8 = 151 ;
+Correctable_Error_9 = 338 ;
+Correctable_Error_10 = 903 ;
+Correctable_Error_11 = 1924 ;
+Correctable_Error_12 = 3755 ;
+Correctable_Error_13 = 6704 ;
+Correctable_Error_14 = 11202 ;
+Correctable_Error_15 = 17100 ;
+Correctable_Error_16 = 24869 ;
+Correctable_Error_17 = 33549 ;
+Correctable_Error_18 = 43541 ;
+Correctable_Error_19 = 52464 ;
+Correctable_Error_20 = 60401 ;
+Correctable_Error_21 = 66108 ;
+Correctable_Error_22 = 68350 ;
+Correctable_Error_23 = 68269 ;
+Correctable_Error_24 = 64331 ;
+Correctable_Error_25 = 58657 ;
+Correctable_Error_26 = 51290 ;
+Correctable_Error_27 = 42335 ;
+Correctable_Error_28 = 34375 ;
+Correctable_Error_29 = 26708 ;
+Correctable_Error_30 = 20073 ;
+Correctable_Error_31 = 14376 ;
+Correctable_Error_32 = 10044 ;
+Correctable_Error_33 = 6797 ;
+Correctable_Error_34 = 4429 ;
+Correctable_Error_35 = 2701 ;
+Correctable_Error_36 = 1762 ;
+Correctable_Error_37 = 1042 ;
+Correctable_Error_38 = 634 ;
+Correctable_Error_39 = 330 ;
+Correctable_Error_40 = 175 ;
+Correctable_Error_41 = 109 ;
+Correctable_Error_42 = 51 ;
+Correctable_Error_43 = 31 ;
+Correctable_Error_44 = 18 ;
+Correctable_Error_45 = 4 ;
+Correctable_Error_46 = 4 ;
+Correctable_Error_47 = 4 ;
+Correctable_Error_49 = 2 ;
+  ----  Uncorrectable initial Error Count --- 
+Uncorrectable_Error_26 = 1 ;
+Uncorrectable_Error_27 = 1 ;
+Uncorrectable_Error_28 = 1 ;
+Uncorrectable_Error_30 = 2 ;
+Uncorrectable_Error_31 = 4 ;
+Uncorrectable_Error_32 = 2 ;
+Uncorrectable_Error_34 = 3 ;
+Uncorrectable_Error_35 = 1 ;
+Uncorrectable_Error_36 = 1 ;
+Uncorrectable_Error_40 = 1 ;
+  ---- Alias distance ----------------------- 
+  ---- Iteration --------------------------- 
+Iter_1 = 2 ;
+Iter_2 = 234583 ;
+Iter_3 = 473213 ;
+Iter_4 = 80953 ;
+Iter_5 = 9083 ;
+Iter_6 = 1553 ;
+Iter_7 = 369 ;
+Iter_8 = 117 ;
+Iter_9 = 47 ;
+Iter_10 = 23 ;
+Iter_11 = 12 ;
+Iter_12 = 8 ;
+Iter_13 = 4 ;
+Iter_14 = 3 ;
+Iter_15 = 4 ;
+Iter_16 = 3 ;
+Iter_17 = 1 ;
+Iter_19 = 1 ;
+Iter_22 = 1 ;
+Iter_33 = 1 ;
+Iter_44 = 1 ;
+Iter_47 = 1 ;
+Iter_63 = 17 ;
+------------------------------------------------------- 
