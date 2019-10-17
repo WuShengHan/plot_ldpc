@@ -1,4 +1,4 @@
-# 
+<pre> 
 #
 This python code would demostrate my LDPC code performance,
 which include
@@ -17,3 +17,4 @@ Here provide some figure property
     b. signal noise ratio vs frame error rate, containing energy-bit signal and energy-symbol signal
     c. exact error bit vs eaxct frame error rate, which means bit-err is directly compared with BCH correction
     d. exact error bit vs throughput: demo hard-input throughput
+<pre>
