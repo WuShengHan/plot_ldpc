@@ -8,7 +8,7 @@ which include
    http://www.3gpp.org/ftp/TSG_RAN/WG1_RL1/TSGR1_AH/NR_AH_1701/Docs/R1-1700644.zip
    https://www.3gpp.org/ftp/TSG_RAN/WG1_RL1/TSGR1_86b/Docs/R1-1609708.zip
    https://www.3gpp.org/ftp/TSG_RAN/WG1_RL1/TSGR1_86b/Docs/R1-1610350.zip
-   http://www.3gpp.org/ftp/tsg_ran/WG1_RL1/TSGR1_88/Docs/R1-1703208.zip
+   https://www.3gpp.org/ftp/tsg_ran/WG1_RL1/TSGR1_88/Docs/R1-1703208.zip
 
 It is noticeable that the result of 1,2 is shown in soft-input correction
 
