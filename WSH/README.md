@@ -28,6 +28,10 @@ BER Comparison Between Convolutional, Turbo, LDPC, and Polar Codes
 https://publik.tuwien.ac.at/files/publik_262129.pdf
 ![image](https://github.com/WuShengHan/plot_ldpc/blob/main/WSH/fig_compare/ber_comparison.png)
 
+Physical Layer Latency Management Mechanisms: A Study for Millimeter-Wave Wi-Fi
+https://www.mdpi.com/2079-9292/10/13/1599/htm
+![image](https://github.com/WuShengHan/plot_ldpc/blob/main/WSH/fig_compare/wifi_mcs.PNG)
+
 Link Budget Analysis: Error Control & Detection by Atlanta RF
 https://atlantarf.com/Error_Control.php
 ![image](https://github.com/WuShengHan/plot_ldpc/blob/main/WSH/fig_compare/atlanta_rf.PNG)
