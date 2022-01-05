@@ -4,8 +4,8 @@ This code family would demostrate correction performance,
 which include
 1. WSH code family for codeword info = 256, 512, 1024, 2048, 4096 and 8192. These codes are proposed for B5G/6G channel coding   
 2. 5G NR NTU code proposed family:
-   http://www.3gpp.org/ftp/TSG_RAN/WG1_RL1/TSGR1_AH/NR_AH_1701/Docs/R1-1700645.zip
-   http://www.3gpp.org/ftp/TSG_RAN/WG1_RL1/TSGR1_AH/NR_AH_1701/Docs/R1-1700644.zip
+   https://www.3gpp.org/ftp/TSG_RAN/WG1_RL1/TSGR1_AH/NR_AH_1701/Docs/R1-1700645.zip
+   https://www.3gpp.org/ftp/TSG_RAN/WG1_RL1/TSGR1_AH/NR_AH_1701/Docs/R1-1700644.zip
    https://www.3gpp.org/ftp/TSG_RAN/WG1_RL1/TSGR1_86b/Docs/R1-1609708.zip
    https://www.3gpp.org/ftp/TSG_RAN/WG1_RL1/TSGR1_86b/Docs/R1-1610350.zip
    https://www.3gpp.org/ftp/tsg_ran/WG1_RL1/TSGR1_88/Docs/R1-1703208.zip
