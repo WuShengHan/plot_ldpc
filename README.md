@@ -1,6 +1,6 @@
 
 #
-This code family would demostrate correction performance,
+Ultra optimal forward error correction design for performance, power, area, reliability and flexibility. This code family would demostrate correction performance,
 which include
 1. WSH code family for codeword info = 256, 512, 1024, 2048, 4096 and 8192. These codes are proposed for B5G/6G channel coding   
 2. 5G NR NTU code proposed family:
