@@ -8,6 +8,9 @@ Y-axis also must be noticed more if next-gen communication. 10^3 CWs(or frames) 
 10^6 CWs(or frames) means around 100MB - 1GB transmission testing.
 10^8 or more CWs(or frames) will reach over-100GB-data reliable and high-quality communication to match every use case.
 
+The parameter of code rate is suitable for turbo code, convolution code but not for ldpc code.
+LDPC design focuses on parity length (number of check node), qc-size(number of parallel processing), codeword length (time cost) 
+
 5G-RANGE: Remote Area Access Network for the 5th Generation
 Deliverable 3.1 Physical layer of the 5G-RANGE
 https://ec.europa.eu/research/participants/documents/downloadPublic?documentIds=080166e5c0722c76&appId=PPGMS
