@@ -10,7 +10,7 @@ which include
    https://www.3gpp.org/ftp/TSG_RAN/WG1_RL1/TSGR1_86b/Docs/R1-1610350.zip
    https://www.3gpp.org/ftp/tsg_ran/WG1_RL1/TSGR1_88/Docs/R1-1703208.zip
 
-![image]([https://github.com/WuShengHan/plot_ldpc/blob/main/WSH_6G_results.png](https://github.com/WuShengHan/plot_ldpc/blob/main/WSH_6G_results.jpg))
+![image](https://github.com/WuShengHan/plot_ldpc/blob/main/WSH_6G_results.jpg)
 It is noticeable that the result of 1,2 is shown in soft-input correction
 
 Here provide some figure property
