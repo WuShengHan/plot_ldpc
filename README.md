@@ -11,13 +11,6 @@ which include
    https://www.3gpp.org/ftp/tsg_ran/WG1_RL1/TSGR1_88/Docs/R1-1703208.zip
 
 ![image](https://github.com/WuShengHan/plot_ldpc/blob/main/WSH_6G_results.jpg)
-It is noticeable that the result of 1,2 is shown in soft-input correction
-
-Here provide some figure property
-a. raw bit error rate vs. frame error rate
-b. signal noise ratio vs frame error rate, containing energy-bit signal and energy-symbol signal
-c. exact error bit vs eaxct frame error rate, which means bit-err is directly compared with BCH correction
-d. exact error bit vs throughput: demo hard-input throughput
 
 My linkedin: https://www.linkedin.com/in/shenghan-wu-82254758/
 #
