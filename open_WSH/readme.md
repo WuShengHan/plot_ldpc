@@ -5,8 +5,8 @@ This repository provides open-source parity matrices for verification and compar
 ## Specification
 
 - **All QC64 matrices** fit within a **one-soft-in-with-hw-3bit decoder**.
-- **AVX-C bit-true implementation** achieving **50Gbps throughput**.
-- **Optimized RTL IP** with a **gate count of 380K**.
+- **implementation** AVX-C code bit-true with optimized RTL IP  .
+- **Cost-Performance** 380K gate count achieves over **40Gbps** throughput.
 
 ## Supported Modes
 
