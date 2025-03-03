@@ -53,10 +53,10 @@ This implementation allows error floor detection and verification over 1 terabyt
 Compare against 5G LDPC and 5G Polar coding.  
 
 Additional Features
-Decoding over hard-inputs: Supports binary channel modeling using the $bpsk_awgn$ function.
+Decoding over hard-inputs: Supports binary channel modeling using the `bpsk_awgn` function.
 I use another LLR table to run hard and refine matrix verification.
 
-# WSH Coding Family Selection Criteria: Parity matrices are optimized based on specific selection metrics.
+- **WSH Coding Family Selection Criteria**: Parity matrices are optimized based on specific selection metrics.
 
 
 
