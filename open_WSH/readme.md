@@ -1,4 +1,4 @@
-# WSH Coding Family - High-Speed Parity Matrix Verification
+# WSH Coding Family - Parity Matrix Verification
 
 This repository provides open-source parity matrices for verification and comparison.
 
@@ -52,11 +52,11 @@ This implementation could bit-true match verilog-RTL ip.
 The `main_wsh.cpp` C code allows error floor detection and verification over 1 terabyte of data in 10 hours.  
 Welcome to compare against 5G LDPC and 5G Polar coding.  
 
-Additional Features
-Decoding over hard-inputs: Supports binary channel modeling using the `bpsk_awgn` function.  
-I use another LLR table to run hard and refine matrix verification.  
+## Features
+Decoding over hard-inputs: Supports binary channel modeling using the `bpsk_awgn` function.   
+I use another LLR table to run hard and refine matrix sieving.  
 
-- **WSH Coding Family Selection Criteria**: Parity matrices are optimized based on specific selection metrics.
+- **WSH Coding Family**: These are partial released. If interested, please feel free to contact me via linkedin.
 
 
 
