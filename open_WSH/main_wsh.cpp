@@ -1,5 +1,5 @@
 //
-// g++ -mavx2 -O3 -march=native -static -fvisibility=hidden -c -o wsh.o wsh.cpp; ar rcs libwsh.a wsh.o; strip --strip-unneeded libwsh.a; cd ..; g++ -o run_wsh -mavx2 -O3 -march=native main_wsh.cpp ./dec/libwsh.a -lpthread
+// g++ -o run_wsh -mavx2 -O3 -march=native main_wsh.cpp ./dec/libwsh.a -lpthread
 //
 #include <immintrin.h>
 #include <malloc.h>
