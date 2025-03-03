@@ -35,7 +35,7 @@ Executing using:
 ```
 
 ## Encoding Throughput
-Testing encoding for 10,000,000 codewords:
+Testing encoding for 10,000,000 codewords: 
 
 ```
 real    0m1.730s
@@ -43,9 +43,7 @@ user    0m1.706s
 sys     0m0.012s
 ```
 
-Performance Insights
 Extremely high-speed performance achieved by fully utilizing width = 64 and degree = 4.  
-The encoding process leverages AVX2 optimizations for maximum efficiency.  
   
 ## Decoding Throughput  
 Perform your own tests.  
@@ -53,8 +51,8 @@ This implementation allows error floor detection and verification over 1 terabyt
 Compare against 5G LDPC and 5G Polar coding.  
 
 Additional Features
-Decoding over hard-inputs: Supports binary channel modeling using the `bpsk_awgn` function.
-I use another LLR table to run hard and refine matrix verification.
+Decoding over hard-inputs: Supports binary channel modeling using the `bpsk_awgn` function.  
+I use another LLR table to run hard and refine matrix verification.  
 
 - **WSH Coding Family Selection Criteria**: Parity matrices are optimized based on specific selection metrics.
 
