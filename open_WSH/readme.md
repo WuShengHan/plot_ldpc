@@ -46,9 +46,11 @@ sys     0m0.012s
 Extremely high-speed performance achieved by fully utilizing width = 64 and degree = 4.  
   
 ## Decoding Throughput  
-Perform your own tests.  
-This implementation allows error floor detection and verification over 1 terabyte of data in 10 hours.  
-Compare against 5G LDPC and 5G Polar coding.  
+Perform your own tests.
+This is under one-soft-bit decoding if you review the `bpsk_awgn` function.  
+This implementation could bit-true match verilog-RTL ip.  
+The `main_wsh.cpp` C code allows error floor detection and verification over 1 terabyte of data in 10 hours.  
+Welcome to compare against 5G LDPC and 5G Polar coding.  
 
 Additional Features
 Decoding over hard-inputs: Supports binary channel modeling using the `bpsk_awgn` function.  
