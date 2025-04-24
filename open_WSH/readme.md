@@ -20,6 +20,12 @@ This repository provides open-source parity matrices for verification and compar
 | 5    | H768_256_QC64_DEG4   |
 | 6    | H1280_1024_QC64_DEG4 |
 
+## Directly run code on Google Colab (2025-04-24)
+
+### a. Launch the LDPC simulation in your browser
+This Colab notebook allows you to reproduce the LDPC decoding results with high efficiency — reaching FER down to $10^{-4}$ within approximately 60 seconds.
+https://colab.research.google.com/github/WuShengHan/plot_ldpc/blob/main/open_WSH/colab_run.ipynb
+
 ## Updates (2025-03-24)
 
 ### a.  Verification Adjustment  
