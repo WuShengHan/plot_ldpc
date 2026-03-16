@@ -10,15 +10,59 @@ This repository provides open-source parity matrices for verification and compar
 
 ## Supported Modes
 
-| Mode | Matrix Configuration |
-|------|----------------------|
-| 0    | H8832_8192_QC64_DEG4 |
-| 1    | H5120_4096_QC64_DEG4 |
-| 2    | H2944_2048_QC64_DEG4 |
-| 3    | H2048_1024_QC64_DEG4 |
-| 4    | H1152_512_QC64_DEG4  |
-| 5    | H768_256_QC64_DEG4   |
-| 6    | H1280_1024_QC64_DEG4 |
+|Mode|Matrix Configuration|Description|
+|-|-|-|
+| 0    | H8832_8192_QC64_DEG4  | ^ |
+| 1    | H8960_8192_QC64_DEG4  | ^ |
+| 2    | H9088_8192_QC64_DEG4  | ^ longer info length |
+| 3    | H9216_8192_QC64_DEG4  | ^ higher rate |
+| 4    | H4736_4096_QC64_DEG4  | ^ to gain TxRx info efficiency |
+| 5    | H4864_4096_QC64_DEG4  | ^ |
+| 6    | H4992_4096_QC64_DEG4  | ^ |
+| 7    | H5120_4096_QC64_DEG4  | ^ |
+| 8    | H2688_2048_QC64_DEG4  |   |
+| 9    | H2816_2048_QC64_DEG4  | V |
+| 10   | H2944_2048_QC64_DEG4  | V |
+| 11   | H3072_2048_QC64_DEG4  | V shorter info length |
+| 12   | H1664_1024_QC64_DEG4  | V lower rate |
+| 13   | H1792_1024_QC64_DEG4  | V to gain reliability |
+| 14   | H1920_1024_QC64_DEG4  | V |
+| 15   | H2048_1024_QC64_DEG4  |   |
+
+
+## Release Verilog RTL IP & Cosim with Verilator and AVX-C (2026-03)
+
+Open to announce the latest verification env of our LDPC IP core, and featuring high-performance simulation capabilities.
+
+### A. Browser-Based Simulation
+You can still conveniently launch LDPC simulations directly in your browser. 
+*   **Deep Analysis**: Run long-term simulations by local run or browser to generate a detailed `report.txt`.
+*   **Design Coherence**: ensure the 100% match from Verilog IP to AVX-C by its results and timing cycles
+*   **Data Visualization**: Use the exported report data to plot BER/FER curves for your personal comparison.
+
+### B. Comprehensive IP Evaluation
+Users are encouraged to independently verify the following metrics to ensure the IP meets your design requirements:
+*   **Performance**: Throughput and Latency analysis.
+*   **Power**: Estimated power consumption profile.
+*   **Area Cost**: Resource utilization (Gate count / LUTs / Flip-Flops).
+*   **Error Floor**: Correction performance and error floor verification.
+*   **FPGA Behavior**: Validated RTL behavior on target FPGA platforms.
+
+---
+
+### License & Terms of Commercial Use
+
+By using this Verilog RTL IP, you agree to the following **Dual-Licensing** terms:
+
+#### Any use of this IP by a **company, corporation, or for-profit entity** requires a formal **Commercial License Agreement**. This includes:
+*   Integrating this IP into a commercial SoC, ASIC, or FPGA product.
+*   Using this IP for internal corporate R&D, prototyping, or evaluation.
+*   **Unauthorized commercial use will be subject to legal action.**
+
+#### Licensing Inquiry
+To obtain the **Full RTL Source Code**, **Technical Support**, or a **Commercial License**, please contact the author: ShengHan Wu, from Taiwan, WuShengHan@outlook.com
+
+---|
 
 ## Directly run code on Google Colab (2025-04-24)
 
