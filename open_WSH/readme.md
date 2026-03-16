@@ -37,6 +37,7 @@ Open to announce the latest verification env of our LDPC IP core, and featuring 
 
 ### A. Browser-Based Simulation
 You can still conveniently launch LDPC simulations directly in your browser. 
+https://colab.research.google.com/github/WuShengHan/plot_ldpc/blob/main/open_WSH/colab_run.ipynb
 *   **Deep Analysis**: Run long-term simulations by local run or browser to generate a detailed `report.txt`.
 *   **Design Coherence**: ensure the 100% match from Verilog IP to AVX-C by its results and timing cycles
 *   **Data Visualization**: Use the exported report data to plot BER/FER curves for your personal comparison.
