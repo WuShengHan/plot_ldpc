@@ -28,7 +28,7 @@ This repository provides open-source parity matrices for verification and compar
 | 13   | H1792_1024_QC64_DEG4  | V to gain reliability |
 | 14   | H1920_1024_QC64_DEG4  | V |
 | 15   | H2048_1024_QC64_DEG4  |   |
-| ...  | more modees are ok    | stay tuned  |
+| ...  | more modes are ok     | stay tuned  |
 
 
 ## Release Verilog RTL IP & Cosim with Verilator and AVX-C (2026-03)
@@ -63,7 +63,8 @@ By using this Verilog RTL IP, you agree to the following **Dual-Licensing** term
 #### Licensing Inquiry
 To obtain the **Full RTL Source Code**, **Technical Support**, or a **Commercial License**, please contact the author: ShengHan Wu, from Taiwan, WuShengHan@outlook.com
 
----|
+---
+
 
 ## Directly run code on Google Colab (2025-04-24)
 
