@@ -12,7 +12,7 @@
 #include <pthread.h>
 
 #ifndef NO_VERILATOR
-//#define DUMP_VCD
+#define DUMP_VCD
 #include "svdpi.h"
 //#include "Vtb_top_verilator__Dpi.h"
 #include "Vldpc_wsh.h"
