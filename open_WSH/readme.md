@@ -33,10 +33,10 @@ This repository provides open-source parity matrices for verification and compar
 
 ## Release Verilog RTL IP & Cosim with Verilator and AVX-C (2026-03)
 
-Open to announce the latest verification env of our LDPC IP core, and featuring high-performance simulation capabilities.
+Open to announce the latest verification env of our LDPC IP core, and featuring high-performance simulation capabilities. The use of verilator, the fastest RTL-to-CPP cosim tool, greatly helps Perforamnce-Power-Area-Reliability evaluaiton. 
 
 ### A. Browser-Based Simulation
-You can still conveniently launch LDPC simulations directly in your browser. 
+You can still conveniently launch LDPC simulations that directly cowork with linux tool, verilator, in your browser. 
 https://colab.research.google.com/github/WuShengHan/plot_ldpc/blob/main/open_WSH/colab_run.ipynb
 *   **Deep Analysis**: Run long-term simulations by local run or browser to generate a detailed `report.txt`.
 *   **Design Coherence**: ensure the 100% match from Verilog IP to AVX-C by its results and timing cycles
