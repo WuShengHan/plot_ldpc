@@ -44,10 +44,10 @@ https://colab.research.google.com/github/WuShengHan/plot_ldpc/blob/main/open_WSH
 
 ### B. Comprehensive IP Evaluation
 Users are encouraged to independently verify the following metrics to ensure the IP meets your design requirements:
-*   **Performance**: Throughput and Latency analysis.
-*   **Power**: Estimated power consumption profile.
-*   **Area Cost**: Resource utilization (Gate count / LUTs / Flip-Flops).
-*   **Error Floor**: Correction performance and error floor verification.
+*   **Performance**: Throughput and Latency analysis when various error-bit-injected scenario.
+*   **Power**: Estimated profile of power consumption and clock gating ratio.
+*   **Area Cost**: Resource utilization (Gate count / Comb / Flip-Flops / LUTs).
+*   **Error Floor**: Correction power, gap between UECC and error floor evaluation (especially based on hard decoding).
 *   **FPGA Behavior**: Validated RTL behavior on target FPGA platforms.
 
 ---
