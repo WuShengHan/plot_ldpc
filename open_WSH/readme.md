@@ -41,6 +41,7 @@ https://colab.research.google.com/github/WuShengHan/plot_ldpc/blob/main/open_WSH
 *   **Deep Analysis**: Run long-term simulations by local run or browser to generate a detailed `report.txt`.
 *   **Design Coherence**: ensure the 100% match from Verilog IP to AVX-C by its results and timing cycles
 *   **Data Visualization**: Use the exported report data to plot BER/FER curves for your personal comparison.
+  ** Remember that fair comparison is apple-to-apple facing the same noise type.
 
 ### B. Comprehensive IP Evaluation
 Users are encouraged to independently verify the following metrics to ensure the IP meets your design requirements:
