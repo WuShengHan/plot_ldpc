@@ -48,8 +48,8 @@ Users are encouraged to independently verify the following metrics to ensure the
 *   **Performance**: Throughput and Latency analysis when various error-bit-injected scenario.
 *   **Power**: Estimated profile of power consumption and clock gating ratio.
 *   **Area Cost**: Resource utilization (Gate count / Comb / Flip-Flops / LUTs).
-*   **Error Floor**: Correction power, gap between UECC and error floor evaluation (especially based on hard decoding).
-*   **FPGA Behavior**: Validated RTL behavior on target FPGA platforms.
+*   **Correction Capability**: Gaps between UECC, error floor estimation (especially robust on hard decoding).
+*   **FPGA Behavior**: Validated RTL behavior, smaller LUTs, over 125Mhz on target FPGA platforms.
 
 ---
 
